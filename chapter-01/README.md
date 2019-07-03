@@ -27,8 +27,7 @@ _combintar_: lambda term with no free variables, that allows to combine the argu
 ```
 (λz.zz)(λy.yy)
 [z := (λy.yy)]
-(λy.yy)(λy.yy) -- I could rename the first to z, which is not the same z as the first one
-(λz.zz)(λy.yy) -- This is equivalent to the original expression, so it never converges
+(λy.yy)(λy.yy) -- This is alpha equivalent to the original expression, so it never converges
 ```
 
 3. `(λx.xxx)z`: it can be reduced to `zzz`, which would be its normal form.
