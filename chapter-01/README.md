@@ -1,4 +1,4 @@
-# Chapter 1: Anything from almost nothing
+# Chapter 1: All You Need is Lambda
 
 ### Intermission: Equivalence Exercises
 
@@ -7,6 +7,7 @@
 3. `λxyz.zx` is equivalent to `b) λtos.st`
 
 _beta normal form_: when you can not beta reduce more.
+
 _combintar_: lambda term with no free variables, that allows to combine the arguments it is given without injecting new values.
 
 ## Exercises
