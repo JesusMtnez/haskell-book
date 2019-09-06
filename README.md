@@ -7,5 +7,8 @@ This repository contains my notes and exercises solutions for the [Haskell Book]
 - [Chapter 03: Strings](/chapter-03)
 - [Chapter 04: Basic datatypes](/chapter-04)
 - [Chapter 05: Types](/chapter-05)
+- Chapter 06: Type classes
+- [Chapter 07: More functional patterns](/chapter-07)
+
 
 [haskell-book]: http://haskellbook.com/
