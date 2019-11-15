@@ -9,6 +9,7 @@ This repository contains my notes and exercises solutions for the [Haskell Book]
 - [Chapter 05: Types](/chapter-05)
 - [Chapter 06: Type classes](/chapter-06)
 - [Chapter 07: More functional patterns](/chapter-07)
+- [Chapter 08: Recursion](/chapter-08)
 
 
 [haskell-book]: http://haskellbook.com/
