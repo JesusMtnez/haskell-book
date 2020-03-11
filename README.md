@@ -10,6 +10,13 @@ This repository contains my notes and exercises solutions for the [Haskell Book]
 - [Chapter 06: Type classes](/chapter-06)
 - [Chapter 07: More functional patterns](/chapter-07)
 - [Chapter 08: Recursion](/chapter-08)
-
+- Chapter 09: Lists
+- Chapter 10: Folding lists
+- Chapter 11: Algebraic datatypes
+- Chapter 12: Signaling adversity
+- Chapter 13: Building Projects
+- Chapter 14: Testing
+- Chapter 15: Monoid, Semigroup
+- [Chapter 16: Functors](/chapter-16)
 
 [haskell-book]: http://haskellbook.com/
